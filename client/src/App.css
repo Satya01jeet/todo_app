@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@600&family=Josefin+Sans:ital@1&family=Lobster&family=Ojuju:wght@200..800&family=Rubik+Dirt&family=Rubik+Scribble&family=Splash&family=Titan+One&display=swap');
+body{
+  margin: 0 auto;
+  background-color: black;
+}
+header{
+  text-align: center;
+}
+header h1{
+  color: white;
+  font-size: 4em;
+  font-family: 'Ojuju', sans-serif;
+}
+form{
+  text-align: center;
+}
+input{
+  background-color: black;
+  border: none;
+  color: white;
+  outline: none;
+  border-bottom: 1px solid white;
+  width: 50vw;
+  font-size: 1em;
+}

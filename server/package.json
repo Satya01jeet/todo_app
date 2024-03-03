@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Todo list app;ication",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satya01jeet/todo_app.git"
+  },
+  "author": "Yasat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Satya01jeet/todo_app/issues"
+  },
+  "homepage": "https://github.com/Satya01jeet/todo_app#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0"
+  }
+}
