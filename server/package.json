@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/Satya01jeet/todo_app#readme",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "express": "^4.18.3",
+    "mongoose": "^8.2.0",
     "nodemon": "^3.1.0"
   }
 }
